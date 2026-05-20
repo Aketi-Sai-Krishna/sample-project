@@ -1,4 +1,4 @@
-# AI Job Tracker Dashboard
+# Sample Project
 
 A modern SaaS-style frontend application built using React, TypeScript, Zustand, and Tailwind CSS.
 This project focuses on scalable frontend architecture, reusable components, responsive design, and production-level engineering practices inspired by real-world AI recruitment platforms.
