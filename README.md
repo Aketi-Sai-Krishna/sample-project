@@ -1,70 +1,136 @@
-# Getting Started with Create React App
+# AI Job Tracker Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern SaaS-style frontend application built using React, TypeScript, Zustand, and Tailwind CSS.
+This project focuses on scalable frontend architecture, reusable components, responsive design, and production-level engineering practices inspired by real-world AI recruitment platforms.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Live Demo
 
-### `npm start`
+🔗 https://sample-project-ecru.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+* Authentication UI (Login / Signup)
+* Responsive Dashboard Layout
+* Protected Route Structure
+* Zustand State Management
+* Reusable Component Architecture
+* Dark/Light Theme Ready
+* Scalable Folder Structure
+* Modern UI using Tailwind CSS
+* Loading States & Error Handling
+* Production-style Frontend Patterns
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* React
+* TypeScript
+* Vite
+* React Router
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Styling
 
-### `npm run eject`
+* Tailwind CSS
+* Shadcn UI
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### State Management
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Zustand
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Data Handling
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* React Query / API Integration
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Vercel
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Project Goal
+
+The goal of this project is to build a scalable AI-era frontend application following modern engineering standards used in production SaaS products.
+
+This project is part of my journey toward becoming an AI Product Engineer focused on intelligent frontend systems and modern user experiences.
+
+---
+
+## Folder Structure
+
+```bash
+src/
+├── components/
+├── features/
+├── hooks/
+├── pages/
+├── services/
+├── store/
+├── routes/
+├── types/
+├── utils/
+└── layouts/
+```
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Aketi-Sai-Krishna/sample-project.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Future Improvements
+
+* AI-powered resume analysis
+* AI interview question generator
+* Role-based authentication
+* Dashboard analytics
+* Real-time notifications
+* Drag & drop kanban board
+* Advanced filtering & search
+* Unit & integration testing
+
+---
+
+## Key Learnings
+
+* Building scalable React architecture
+* State management using Zustand
+* Creating reusable UI systems
+* Structuring frontend applications professionally
+* Responsive dashboard development
+* Production-oriented frontend engineering
+
+---
+
+## Author
+
+AKETI SAI KRISHNA
+
+Frontend Engineer focused on scalable React applications, AI-powered products, and intelligent user experiences.
+
+GitHub:
+https://github.com/Aketi-Sai-Krishna
